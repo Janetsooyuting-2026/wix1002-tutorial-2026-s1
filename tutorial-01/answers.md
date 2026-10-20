@@ -2,7 +2,7 @@
 
 ### Question 1
 
-![Question1]("C:\wix1002-tutorial-2026-s1\tutorial-01\PQ1.jpg")
+![Question1]("tutorial-01/PQ1.jpg")
 
 ### Question 2
 
