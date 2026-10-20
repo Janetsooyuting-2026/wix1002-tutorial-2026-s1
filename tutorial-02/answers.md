@@ -1,7 +1,7 @@
 # Tutorial 02 — Answers
 
 ### Q1
-
+```
 public class T2Q1 {
     public static void main(String[] args) {
         System.out.print("Knowledge");
@@ -11,7 +11,7 @@ public class T2Q1 {
         System.out.println ("Knowledge\nis\nPower");
     }
 }
-
+```
 ### Q2
 
 public class T2Q2 {
