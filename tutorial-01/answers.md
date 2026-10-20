@@ -1,17 +1,13 @@
 # Tutorial 01 — Answers
 
-## Part I
-
 ### Question 1
 
-Write your answer and explanation here.
+![Question1]("C:\wix1002-tutorial-2026-s1\tutorial-01\PQ1.jpg")
 
 ### Question 2
 
-Write your answer here.
+Haha
 
-## Part II
-
-### Question 1
+### Question 3
 
 Write your answer here.
