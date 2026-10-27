@@ -88,9 +88,10 @@ $$$$$
 empty
 
 ### Q4
+```
 import java.util.*;
 
-public class BiggestOfThree {
+public class T3Q4 {
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
         System.out.print("Enter three integers: ");
@@ -108,8 +109,9 @@ public class BiggestOfThree {
         System.out.println("The biggest number is " + biggest);
     }
 }
-
+```
 ### Q5
+```
 import java.util.*;
 
 public class T3Q5 {
@@ -118,11 +120,11 @@ public class T3Q5 {
         System.out.print("Enter a year: ");
         int year = tekan.nextInt();
 
-        boolean isLeap = (year % 4 == 0 && year % 100 != 0) || year % 400 == 0;
-        if (isLeap) {
+        if(year % 4 == 0 ){
             System.out.println(year + " is a leap year");
         } else {
             System.out.println(year + " is not a leap year");
         }
     }
 }
+```
